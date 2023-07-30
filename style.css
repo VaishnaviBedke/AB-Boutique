@@ -90,3 +90,15 @@ img {
      background-color: blue;
      color: #fff;
   }
+
+  .container2{
+    margin: 250px;
+    padding:60px;
+    background-color: rgb(124, 169, 154);
+    text-align: center;
+  }
+
+  h1{
+    font-size: 40px;
+    color: blue;
+  }
